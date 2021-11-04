@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <PackageReference Include="xunit.runner.utility" Version="2.4.1" />
+    <PackageReference Include="XunitXml.TestLogger" Version="3.0.70" />
   </ItemGroup>
 
   <ItemGroup>
